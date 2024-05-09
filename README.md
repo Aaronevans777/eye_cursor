@@ -1,6 +1,6 @@
 # EYE_MOUSE<br />
 # License <br />
-This repository is licensed to rightful owner: HARSHSINGH0<br />
+This repository is licensed to rightful owner:AARON <br />
 that generally means you have no permission from the creators of the software to use, modify, or share the software. Although a code host such as GitHub may allow you to view and fork the code, this does not imply that you are permitted to use, modify, or share the software for any purpose.<br />
 # About<br />
 This repository is created to possibly make project where user or consumer can handle mouse comtrol from eyes<br />
